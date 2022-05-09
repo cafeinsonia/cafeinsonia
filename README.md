@@ -1,21 +1,15 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://64.media.tumblr.com/89d07d491736464e194641205a23d8e2/6138b8325f9c3511-89/s400x600/bdd6622a0d0b95809fe4992550ee6b7873caa349.gifv" alt="Logo"  width="200" height="200">
-  </a>
+<img align="right" height="590em" src="https://i.pinimg.com/564x/3c/3a/0a/3c3a0a2dd7f1e5693550e0f5b450c8f4.jpg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Arianne Prado</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-  <h3 align="center">Hi, I'm Lexie</h3>
+- 🔥 Web Development Student
 
-  <p align="center">
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
+- 👨‍💻 I'm using this space to track my study time, study notes and post my projects :D
+
+- ▶️ You can find me on instagram @cafeinsonia
+
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+
+- ⚡ Fun fact **I know how put my tongue on my nose...**
+<br><br>
+<img src="https://j.gifs.com/mlL6xD.gif">
